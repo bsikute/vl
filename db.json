@@ -1,5 +1,4 @@
 {
-  "data": {
     "content": [
       {
         "id": 3358,
@@ -562,7 +561,4 @@
     "numberOfElements": 5,
     "first": true,
     "empty": false
-  },
-  "errorMessage": null,
-  "success": true
-}
+  }
